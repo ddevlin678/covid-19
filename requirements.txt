@@ -1,0 +1,14 @@
+future
+pycountry
+pandas 
+numpy 
+matplotlib.pyplot 
+seaborn 
+ipywidgets
+plotly.express 
+folium
+Basemap
+sklearn
+from sklearn.preprocessing import minmax_scale
+from IPython.html import widgets
+from IPython.display import display
